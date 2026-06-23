@@ -8,10 +8,10 @@ Objective: Capture and analyze network traffic to identify unusual patterns, mal
 
 ## Methodology
 1. Installed Wireshark.
-2. Captured network traffic through Wi-Fi.
-3. Generated web browsing traffic.
+2. Captured network traffic which was coming through Wi-Fi connection.
+3. Opened some websites to create web traffic.
 4. Applied protocol filters.
-5. Analyzed packet behavior.
+5. Analyzed how the packets of data were behaving.
 
 ## Protocols Observed
 
@@ -49,4 +49,5 @@ Used for network diagnostics and ping operations.
 - No malicious traffic was detected.
 
 ## Conclusion
-Network traffic was successfully captured and analyzed using Wireshark. The project demonstrated packet sniffing, protocol analysis, and basic network monitoring techniques.
+Network traffic was successfully captured and analyzed with Wireshark. 
+The project showed packet sniffing, protocol analysis, and basic network monitoring techniques.
