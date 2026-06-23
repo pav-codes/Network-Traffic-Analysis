@@ -44,11 +44,8 @@ Used for network diagnostics and ping operations.
 ### ICMP Traffic
 ![ICMP](screenshots/icmp.png)
 
-## Findings
-- Majority of traffic used TCP.
-- Web traffic was encrypted using TLS.
-- DNS queries were observed during website access.
-- ICMP packets appeared during ping testing.
+## Observation
+- No signs of network attacks detetcted.
 - No malicious traffic was detected.
 
 ## Conclusion
