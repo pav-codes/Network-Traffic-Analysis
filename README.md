@@ -3,6 +3,7 @@ Objective: Capture and analyze network traffic to identify unusual patterns, mal
 
 ## Tools Used
 - Wireshark
+- Npcap
 - Windows Command Prompt
 
 ## Methodology
@@ -14,16 +15,16 @@ Objective: Capture and analyze network traffic to identify unusual patterns, mal
 
 ## Protocols Observed
 
-### DNS
+### DNS (Domain Name System)
 Converts domain names into IP addresses.
 
-### TCP
+### TCP (Transmission Control Protocol)
 Provides reliable communication between devices.
 
-### TLS
+### TLS (Transport Layer Security))
 Encrypts web traffic over internet.
 
-### ICMP
+### ICMP (Internet Control Message Protocol)
 Used for network diagnostics and ping operations.
 
 ## Screenshots
